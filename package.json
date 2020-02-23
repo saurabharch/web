@@ -54,7 +54,7 @@
     "localforage": "1.7.2",
     "moment": "2.22.2",
     "reflect-metadata": "0.1.12",
-    "rxjs": "6.2.1",
+    "rxjs": "6.5.4",
     "typescript": "2.7.2",
     "underscore": "1.8.3",
     "web-animations-js": "2.3.1",
