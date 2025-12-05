@@ -37,7 +37,7 @@
   "dependencies": {
     "@angular/animations": "6.1.0",
     "@angular/common": "6.1.0",
-    "@angular/compiler": "6.1.0",
+    "@angular/compiler": "19.2.17",
     "@angular/compiler-cli": "6.1.0",
     "@angular/core": "6.1.0",
     "@angular/forms": "6.1.0",
